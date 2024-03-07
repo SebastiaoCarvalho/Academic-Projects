@@ -9,6 +9,7 @@ This may not contain all the projects done, since some need to be private or may
 - [Computer Networks (RC)](https://github.com/SebastiaoCarvalho/rc)
 - [Distributed Systems (SDis)](https://github.com/Fredd124/IST-SDIS-2023)
 - Computer Graphics (CGra): [2nd project](https://github.com/SebastiaoCarvalho/cg2), [3rd project](https://github.com/SebastiaoCarvalho/cg3)
+- [Compilers (Comp)](https://github.com/Fredd124/IST-COMPILERS-2023)
 
 ## MEIC-A
 
