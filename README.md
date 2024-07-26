@@ -17,3 +17,6 @@ This may not contain all the projects done, since some need to be private or may
 - [Game Design (DDJ)](https://github.com/SebastiaoCarvalho/Escape-The-Mist-Of-Time)
 - Deep Learning (AP-Dei): [1st Homework](https://github.com/SebastiaoCarvalho/dl-hw1), [2nd Homework](https://github.com/SebastiaoCarvalho/dl-hw2)
 - [Planning, Learning and Decision Making (PADI)](https://github.com/SebastiaoCarvalho/padi)
+- [Autonomous Agents and Multi-Agent Systems (AASMA)](https://github.com/SebastiaoCarvalho/aasma)
+- [Game Development Methodology (MDJ)](https://github.com/footvaalvica/CheeseInTheTrap)
+- Programming Languages (LPro): [1st project](https://github.com/SebastiaoCarvalho/pl-p1), [2nd project](https://github.com/SebastiaoCarvalho/pl-p2)
