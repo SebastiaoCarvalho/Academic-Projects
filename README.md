@@ -20,3 +20,5 @@ This may not contain all the projects done, since some need to be private or may
 - [Autonomous Agents and Multi-Agent Systems (AASMA)](https://github.com/SebastiaoCarvalho/aasma)
 - [Game Development Methodology (MDJ)](https://github.com/footvaalvica/CheeseInTheTrap)
 - Programming Languages (LPro): [1st project](https://github.com/SebastiaoCarvalho/pl-p1), [2nd project](https://github.com/SebastiaoCarvalho/pl-p2)
+- Software Specification (QS): [1st project](https://github.com/SebastiaoCarvalho/QS-P1), [2nd project](https://github.com/SebastiaoCarvalho/QS-P2)
+- Algorithms for Computational Logic (ALC): [1st project](https://github.com/SebastiaoCarvalho/ALC-P1), [2nd project](https://github.com/SebastiaoCarvalho/ALC-P2)
